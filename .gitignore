@@ -1,3 +1,4 @@
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -29,3 +30,7 @@ build/
 
 ### VS Code ###
 .vscode/
+/bookings.db.lck
+/bookings.db.log
+/bookings.db.properties
+/bookings.db.script
